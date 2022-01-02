@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+
+}
+
+h1, h3, h4 {
+    background-color: lightblue;
+
+}
+.knjiga {
+    width : auto;
+    height : 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
